@@ -5,11 +5,11 @@
 # Setup
 1. Install Pytorch Stable
 2. Install Stabilizing Timestamps for Whisper
-'''bash
+```bash
 pip install -U stable-ts
-'''
+```
 
 # RUN
-'''bash
+```bash
 streamlit run app.py
-'''
+```
