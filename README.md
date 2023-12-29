@@ -9,8 +9,7 @@
 # Setup
 1. FFMPEG is required [https://www.ffmpeg.org/download.html]
 2. Install Pytorch Stable [https://pytorch.org/get-started/locally/]
-3. Install Stabilizing Timestamps for Whisper
-4. Install streamlit
+3. Install Stabilizing Timestamps for Whisper and streamlit
 
 ```bash
 pip install -U stable-ts streamlit
