@@ -1,6 +1,6 @@
 # SubtitleGenerator_WhisperAI
- Generate accurate subtitle for video using WhisperAI\
- It uses OpenAI's WhisperAI for transcribing video/audio to english subtitles\
+ Generate accurate subtitles for videos with timestamp using WhisperAI\
+ It uses OpenAI's WhisperAI for transcribing video/audio to English subtitles\
  And Streamlit for Web UI
 
 
